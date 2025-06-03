@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/svastiks/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/svastiks/leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/svastiks/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/svastiks/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/svastiks/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
