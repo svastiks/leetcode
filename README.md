@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/svastiks/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/svastiks/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/svastiks/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/svastiks/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/svastiks/leetcode/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/svastiks/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/svastiks/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/svastiks/leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/svastiks/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
